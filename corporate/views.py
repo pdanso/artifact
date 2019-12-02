@@ -7,7 +7,7 @@ import pandas as pd
 
 from django.http import JsonResponse
 
-
+#lets take this out of the code
 def index(request):
     return HttpResponse("Hello, world. You're at the polls index.")
 
