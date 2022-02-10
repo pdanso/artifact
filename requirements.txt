@@ -1,5 +1,5 @@
 
-Django==2.2.5
+Django==2.2.27
 django-jenkins==0.110.0
 djangorestframework==3.10.3
 docutils==0.15.2
